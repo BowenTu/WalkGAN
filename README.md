@@ -4,6 +4,8 @@
     </h1>
 </div>
 
+Graph Representation Learning with Sequence-based Generative Adversarial Nets
+
 ## Model
 <div align="center">
   <img src="pics/model.png">
